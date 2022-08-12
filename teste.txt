@@ -1,0 +1,2 @@
+Exemplo inserçao de arquivo texto
+teste
